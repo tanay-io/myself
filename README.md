@@ -39,7 +39,7 @@ var tanay = Developer{
     Name:        "Tanay Sachdeva",
     Degree:      "B.Tech – Electronics & Computer Engineering",
     Institution: "Thapar Institute of Engineering & Technology, Patiala",
-    CGPA:        8.18,
+    CGPA:        8.35,
     Batch:       2027,
     Focus:       []string{
         "Distributed Systems",
